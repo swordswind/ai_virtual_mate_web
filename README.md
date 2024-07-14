@@ -120,14 +120,14 @@ python main.py
 ## 致谢
 
 特别感谢所有支持我们项目的个人和开源项目，你们的支持和贡献成就了AI虚拟伙伴Web版。
-·transformers：https://github.com/huggingface/transformers
-·Qwen2：https://github.com/QwenLM/Qwen2
-·GPT-SoVITS：https://github.com/RVC-Boss/GPT-SoVITS
-·vosk：https://github.com/alphacep/vosk
-·pygame：https://github.com/pygame/pygame
-·edge-tts：https://github.com/rany2/edge-tts
-·pyttsx3：https://github.com/nateshmbhat/pyttsx3
-·ollama：https://github.com/ollama/ollama
-·flet：https://github.com/flet-dev/flet
-·flask：https://github.com/pallets/flask
-·live2d：https://github.com/nladuo/live2d-chatbot-demo
+- transformers：https://github.com/huggingface/transformers
+- Qwen2：https://github.com/QwenLM/Qwen2
+- GPT-SoVITS：https://github.com/RVC-Boss/GPT-SoVITS
+- vosk：https://github.com/alphacep/vosk
+- pygame：https://github.com/pygame/pygame
+- edge-tts：https://github.com/rany2/edge-tts
+- pyttsx3：https://github.com/nateshmbhat/pyttsx3
+- ollama：https://github.com/ollama/ollama
+- flet：https://github.com/flet-dev/flet
+- flask：https://github.com/pallets/flask
+- live2d：https://github.com/nladuo/live2d-chatbot-demo
