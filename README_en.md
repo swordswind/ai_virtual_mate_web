@@ -120,3 +120,14 @@ If you encounter any issues during the use of the project, please submit an Issu
 ## Acknowledgements
 
 Special thanks to all individuals and open source projects that support our project. Your support and contributions have made the AI Virtual Mate Web possible.
+- transformers：https://github.com/huggingface/transformers
+- Qwen2：https://github.com/QwenLM/Qwen2
+- GPT-SoVITS：https://github.com/RVC-Boss/GPT-SoVITS
+- vosk：https://github.com/alphacep/vosk
+- pygame：https://github.com/pygame/pygame
+- edge-tts：https://github.com/rany2/edge-tts
+- pyttsx3：https://github.com/nateshmbhat/pyttsx3
+- ollama：https://github.com/ollama/ollama
+- flet：https://github.com/flet-dev/flet
+- flask：https://github.com/pallets/flask
+- live2d：https://github.com/nladuo/live2d-chatbot-demo
