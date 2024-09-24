@@ -4,7 +4,6 @@ numpy==1.26.2
 flask==3.0.3
 edge-tts==6.1.12
 gradio_client==1.0.2
-flet==0.13.0
 pillow==10.4.0
 requests==2.32.3
 openai==1.35.10
@@ -13,3 +12,4 @@ pyttsx3==2.90
 keyboard==0.13.5
 pyaudio==0.2.14
 vosk==0.3.45
+flet==0.13.0
