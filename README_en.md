@@ -34,14 +34,14 @@ git clone https://github.com/swordswind/ai_virtual_mate_web.git
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+Install the dependencies listed in the requirements.txt file by running pip install xxx respectively
 ```
 
 ## Usage Instructions
 
 ### Launch the Application
 
-Run the `main.py` script in the root directory of the project to launch the application (you need to fill in the image materials and place the Live2D model first):
+Run the `main.py` script in the root directory of the project to launch the application (You need to first complete the image file materials and then place the Live2D model and the Vosk speech recognition model):
 
 ```bash
 python main.py
