@@ -34,14 +34,14 @@ git clone https://github.com/swordswind/ai_virtual_mate_web.git
 ### 安装依赖
 
 ```bash
-pip install -r requirements.txt
+分别用 pip install xxx 安装 requirements.txt 中的依赖
 ```
 
 ## 使用说明
 
 ### 启动应用程序
 
-在项目根目录下运行`main.py`脚本来启动应用程序(需先补全图片文件素材和放入Live2D模型)：
+在项目根目录下运行`main.py`脚本来启动应用程序(需先补全图片文件素材和放入Live2D模型和vosk语音识别模型)：
 
 ```bash
 python main.py
